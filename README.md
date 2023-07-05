@@ -1,2 +1,2 @@
-# pizza_sales_prediction
+# pizza_price_prediction
 by ML
